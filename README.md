@@ -24,7 +24,7 @@ Dado uma imagem 704x704 pixels, uma varredura simples na matriz RGB resolve o pr
   - Os meteoros possuem um valor RGB = [255,0,0]. 
   - As estrelas possuem um valor RGB = [255,255,255].
 
-Para uma melhor visualização foi desenhado um circulo roxo em volta dos meteoros e um vermelho em volta das estrelas.
+Para uma melhor visualização foi desenhado um circulo roxo em volta dos meteoros, um vermelho em volta dos meteoros que vão cair na água e um circulo preto em volta das estrelas.
 
 ![alt text](https://github.com/jeanhardzz/MeteorChallenge/blob/main/result.jpg?raw=true)
 
