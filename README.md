@@ -26,4 +26,14 @@ Dado uma imagem 704x704 pixels, uma varredura simples na matriz RGB resolve o pr
 
 Para uma melhor visualização foi desenhado um circulo roxo em volta dos meteoros e um vermelho em volta das estrelas.
 
-![alt text](https://github.com/jeanhardzz/MeteorChallenge/blob/main/result2.png?raw=true)
+![alt text](https://github.com/jeanhardzz/MeteorChallenge/blob/main/result.jpg?raw=true)
+
+## Conclusão
+
+Para realizar a contagem das estrelas e dos meteoros foram usadas operações na matriz de pixels da imagem. Para este problema não houve necessidade de elaborar operações complexas a fim de minimizar o tempo do algoritmo, uma vez que a matriz referente a imagem era relativamente pequena. Assim foi feita uma varredura simples na matriz para encontrar e contar os elementos relevantes.
+
+- **Estrelas**: 315
+- **Meteoros**: 328
+- **Meteros caindo na agua**: 105
+
+Sobre a questão opcional, onde o objetivo é encontrar a frase oculta, não foi encontrada. Deixei explicitado acima o meu raciocínio ao tentar encontra-la investigando código binário e código morse.
