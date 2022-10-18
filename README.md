@@ -16,6 +16,12 @@ Tasks:
 
 Please, send us the result and code you used to solve the tasks above. Explain how you achieved the results in each question. Good work!!
 
+Number of Stars: 315
+Number of Meteors: 328
+Meteors falling on the Water: 105
+(optional) Hidden Phrase: None
+
+
 Subject: [CHALLENGE] [METEOR] your name
 
 ## Contando o número de estrelas e meteoros
